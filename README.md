@@ -1,4 +1,4 @@
-![./assets/name.png]
+<p align="center"><img width="100%" src="./assets/name.png" /></p>
 
 ## 🌸 Contact :
 
