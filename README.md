@@ -8,6 +8,9 @@ A Front end developer
 <code><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/></code>
 
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=JusticHentai&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JusticHentai&layout=compact&theme=buefy&hide_border=true" alt="" /> |
+|---------------------------------------------------------------------------------------------------------------------------------------| --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
 ## 🌸 Contact :
 
 - **Discord:** 正义的便太#6505
