@@ -1,5 +1,7 @@
 <p align="center"><img width="100%" src="assets/name1.png" /></p>
 
+## ✿ Profile
+
 ## 🌸 Contact :
 
 - **Discord:** 正义的便太#6505
