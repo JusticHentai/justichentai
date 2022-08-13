@@ -1,4 +1,4 @@
-<p align="center"><img width="100%" src="assets/name1.png" /></p>
+<p align="center"><img width="100%" src="assets/name2.png" /></p>
 
 ## 🌸 Profile
 A Front end developer
