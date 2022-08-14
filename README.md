@@ -17,3 +17,7 @@ A Front end developer
 - **QQ:** 1360636180 (Validation Information: 豆砸)
 - **WeChat:** 1360636180a
 - **E-mail:** 1360636180@qq.com
+
+### 🌸 Activity Graph：
+
+![](https://activity-graph.herokuapp.com/graph?username=JusticHentai&color=ff006a)
