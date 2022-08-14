@@ -20,4 +20,4 @@ A Front end developer
 
 ### 🌸 Activity Graph：
 
-![](https://activity-graph.herokuapp.com/graph?username=JusticHentai&bg_color=fff&color=ff006a&line=f2abbb)
+![](https://activity-graph.herokuapp.com/graph?username=JusticHentai&bg_color=fff&color=ff006a&line=ff006a)
