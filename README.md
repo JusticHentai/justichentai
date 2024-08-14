@@ -5,9 +5,7 @@ A Front end developer
 
 <code><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></code>
 
-[![JusticHentai GitHub stats](https://github-readme-stats.vercel.app/api?username=JusticHentai&&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-| [![JusticHentai GitHub stats](https://github-readme-stats.vercel.app/api?username=JusticHentai&&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JusticHentai&layout=compact&title_color=ff006a&hide_border=true&hide=Less,HTML,CSS,SCSS&hide_border=true" alt="" /> |
+| [![JusticHentai GitHub stats](https://github-readme-stats.vercel.app/api?username=JusticHentai&count_private=true&show_icon=true&title_color=ff006a&text_color=ff006a)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JusticHentai&title_color=ff006a&text_color=ff006a&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 🌸 Contact :
@@ -16,7 +14,3 @@ A Front end developer
 - **QQ:** 1360636180 (Validation Information: 豆砸)
 - **WeChat:** 1360636180a
 - **E-mail:** 1360636180@qq.com
-
-### 🌸 Activity Graph：
-
-![](https://activity-graph.herokuapp.com/graph?username=JusticHentai&bg_color=fff&color=ff006a&line=ff006a)
